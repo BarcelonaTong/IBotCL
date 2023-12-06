@@ -5,7 +5,7 @@ Our research focuses on the application of conceptual explanation in the process
 
 ## Visualization of the Intervention Process
 
-
+![image](https://github.com/BarcelonaTong/IBotCL/blob/main/1.png)
 
 ## Dataset
 
